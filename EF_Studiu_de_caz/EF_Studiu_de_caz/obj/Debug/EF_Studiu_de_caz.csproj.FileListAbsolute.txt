@@ -1,0 +1,11 @@
+D:\Cris\Facultate\Sem II\.Net\EF Studii de caz\EF_Studiu_de_caz\EF_Studiu_de_caz\bin\Debug\EF_Studiu_de_caz.exe.config
+D:\Cris\Facultate\Sem II\.Net\EF Studii de caz\EF_Studiu_de_caz\EF_Studiu_de_caz\bin\Debug\EF_Studiu_de_caz.exe
+D:\Cris\Facultate\Sem II\.Net\EF Studii de caz\EF_Studiu_de_caz\EF_Studiu_de_caz\bin\Debug\EF_Studiu_de_caz.pdb
+D:\Cris\Facultate\Sem II\.Net\EF Studii de caz\EF_Studiu_de_caz\EF_Studiu_de_caz\bin\Debug\EntityFramework.dll
+D:\Cris\Facultate\Sem II\.Net\EF Studii de caz\EF_Studiu_de_caz\EF_Studiu_de_caz\bin\Debug\EntityFramework.SqlServer.dll
+D:\Cris\Facultate\Sem II\.Net\EF Studii de caz\EF_Studiu_de_caz\EF_Studiu_de_caz\bin\Debug\EntityFramework.xml
+D:\Cris\Facultate\Sem II\.Net\EF Studii de caz\EF_Studiu_de_caz\EF_Studiu_de_caz\bin\Debug\EntityFramework.SqlServer.xml
+D:\Cris\Facultate\Sem II\.Net\EF Studii de caz\EF_Studiu_de_caz\EF_Studiu_de_caz\obj\Debug\EF_Studiu_de_caz.csprojAssemblyReference.cache
+D:\Cris\Facultate\Sem II\.Net\EF Studii de caz\EF_Studiu_de_caz\EF_Studiu_de_caz\obj\Debug\EF_Studiu_de_caz.csproj.CopyComplete
+D:\Cris\Facultate\Sem II\.Net\EF Studii de caz\EF_Studiu_de_caz\EF_Studiu_de_caz\obj\Debug\EF_Studiu_de_caz.exe
+D:\Cris\Facultate\Sem II\.Net\EF Studii de caz\EF_Studiu_de_caz\EF_Studiu_de_caz\obj\Debug\EF_Studiu_de_caz.pdb
