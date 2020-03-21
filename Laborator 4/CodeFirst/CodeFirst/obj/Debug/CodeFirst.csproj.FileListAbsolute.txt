@@ -1,0 +1,11 @@
+D:\Cris\Facultate\Sem II\.Net\Laborator 4\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe.config
+D:\Cris\Facultate\Sem II\.Net\Laborator 4\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe
+D:\Cris\Facultate\Sem II\.Net\Laborator 4\CodeFirst\CodeFirst\bin\Debug\CodeFirst.pdb
+D:\Cris\Facultate\Sem II\.Net\Laborator 4\CodeFirst\CodeFirst\bin\Debug\EntityFramework.dll
+D:\Cris\Facultate\Sem II\.Net\Laborator 4\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\Cris\Facultate\Sem II\.Net\Laborator 4\CodeFirst\CodeFirst\bin\Debug\EntityFramework.xml
+D:\Cris\Facultate\Sem II\.Net\Laborator 4\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\Cris\Facultate\Sem II\.Net\Laborator 4\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csprojAssemblyReference.cache
+D:\Cris\Facultate\Sem II\.Net\Laborator 4\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+D:\Cris\Facultate\Sem II\.Net\Laborator 4\CodeFirst\CodeFirst\obj\Debug\CodeFirst.exe
+D:\Cris\Facultate\Sem II\.Net\Laborator 4\CodeFirst\CodeFirst\obj\Debug\CodeFirst.pdb
