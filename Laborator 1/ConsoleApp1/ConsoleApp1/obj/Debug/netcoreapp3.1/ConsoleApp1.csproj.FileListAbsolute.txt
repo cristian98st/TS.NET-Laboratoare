@@ -1,0 +1,11 @@
+D:\Cris\Facultate\Sem II\.Net\Lab1\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\Cris\Facultate\Sem II\.Net\Lab1\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\Cris\Facultate\Sem II\.Net\Lab1\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\Cris\Facultate\Sem II\.Net\Lab1\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\Cris\Facultate\Sem II\.Net\Lab1\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Cris\Facultate\Sem II\.Net\Lab1\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Cris\Facultate\Sem II\.Net\Lab1\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\Cris\Facultate\Sem II\.Net\Lab1\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Cris\Facultate\Sem II\.Net\Lab1\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\Cris\Facultate\Sem II\.Net\Lab1\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Cris\Facultate\Sem II\.Net\Lab1\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb

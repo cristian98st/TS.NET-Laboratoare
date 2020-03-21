@@ -1,0 +1,27 @@
+D:\Cris\Facultate\Sem II\.Net\Lab2\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\Cris\Facultate\Sem II\.Net\Lab2\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Cris\Facultate\Sem II\.Net\Lab2\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Cris\Facultate\Sem II\.Net\Lab2\Calculator\bin\Debug\Calculator.exe.config
+D:\Cris\Facultate\Sem II\.Net\Lab2\Calculator\bin\Debug\Calculator.exe
+D:\Cris\Facultate\Sem II\.Net\Lab2\Calculator\bin\Debug\Calculator.pdb
+D:\Cris\Facultate\Sem II\.Net\Lab2\Calculator\obj\Debug\Calculator.exe
+D:\Cris\Facultate\Sem II\.Net\Lab2\Calculator\obj\Debug\Calculator.pdb
+D:\Cris\Facultate\Sem II\.Net\Lab2\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Cris\Facultate\Sem II\.Net\New folder\Calculator\bin\Debug\Calculator.exe.config
+D:\Cris\Facultate\Sem II\.Net\New folder\Calculator\bin\Debug\Calculator.exe
+D:\Cris\Facultate\Sem II\.Net\New folder\Calculator\bin\Debug\Calculator.pdb
+D:\Cris\Facultate\Sem II\.Net\New folder\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\Cris\Facultate\Sem II\.Net\New folder\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Cris\Facultate\Sem II\.Net\New folder\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Cris\Facultate\Sem II\.Net\New folder\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Cris\Facultate\Sem II\.Net\New folder\Calculator\obj\Debug\Calculator.exe
+D:\Cris\Facultate\Sem II\.Net\New folder\Calculator\obj\Debug\Calculator.pdb
+D:\Cris\Facultate\Sem II\.Net\.NET-Assignments\Lab2\Calculator\bin\Debug\Calculator.exe.config
+D:\Cris\Facultate\Sem II\.Net\.NET-Assignments\Lab2\Calculator\bin\Debug\Calculator.exe
+D:\Cris\Facultate\Sem II\.Net\.NET-Assignments\Lab2\Calculator\bin\Debug\Calculator.pdb
+D:\Cris\Facultate\Sem II\.Net\.NET-Assignments\Lab2\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\Cris\Facultate\Sem II\.Net\.NET-Assignments\Lab2\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Cris\Facultate\Sem II\.Net\.NET-Assignments\Lab2\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Cris\Facultate\Sem II\.Net\.NET-Assignments\Lab2\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Cris\Facultate\Sem II\.Net\.NET-Assignments\Lab2\Calculator\obj\Debug\Calculator.exe
+D:\Cris\Facultate\Sem II\.Net\.NET-Assignments\Lab2\Calculator\obj\Debug\Calculator.pdb
