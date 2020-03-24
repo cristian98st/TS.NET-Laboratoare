@@ -1,0 +1,11 @@
+D:\Cris\Facultate\Sem II\.Net\TS.NET-Laboratoare\Laborator 6\PostComment\PostComment\obj\Debug\PostComment.csprojAssemblyReference.cache
+D:\Cris\Facultate\Sem II\.Net\TS.NET-Laboratoare\Laborator 6\PostComment\PostComment\bin\Debug\PostComment.dll.config
+D:\Cris\Facultate\Sem II\.Net\TS.NET-Laboratoare\Laborator 6\PostComment\PostComment\bin\Debug\PostComment.dll
+D:\Cris\Facultate\Sem II\.Net\TS.NET-Laboratoare\Laborator 6\PostComment\PostComment\bin\Debug\PostComment.pdb
+D:\Cris\Facultate\Sem II\.Net\TS.NET-Laboratoare\Laborator 6\PostComment\PostComment\bin\Debug\EntityFramework.dll
+D:\Cris\Facultate\Sem II\.Net\TS.NET-Laboratoare\Laborator 6\PostComment\PostComment\bin\Debug\EntityFramework.SqlServer.dll
+D:\Cris\Facultate\Sem II\.Net\TS.NET-Laboratoare\Laborator 6\PostComment\PostComment\bin\Debug\EntityFramework.xml
+D:\Cris\Facultate\Sem II\.Net\TS.NET-Laboratoare\Laborator 6\PostComment\PostComment\bin\Debug\EntityFramework.SqlServer.xml
+D:\Cris\Facultate\Sem II\.Net\TS.NET-Laboratoare\Laborator 6\PostComment\PostComment\obj\Debug\PostComment.csproj.CopyComplete
+D:\Cris\Facultate\Sem II\.Net\TS.NET-Laboratoare\Laborator 6\PostComment\PostComment\obj\Debug\PostComment.dll
+D:\Cris\Facultate\Sem II\.Net\TS.NET-Laboratoare\Laborator 6\PostComment\PostComment\obj\Debug\PostComment.pdb

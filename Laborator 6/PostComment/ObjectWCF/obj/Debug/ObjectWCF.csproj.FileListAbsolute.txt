@@ -1,0 +1,11 @@
+D:\Cris\Facultate\Sem II\.Net\TS.NET-Laboratoare\Laborator 6\PostComment\ObjectWCF\bin\Debug\ObjectWCF.dll
+D:\Cris\Facultate\Sem II\.Net\TS.NET-Laboratoare\Laborator 6\PostComment\ObjectWCF\bin\Debug\ObjectWCF.pdb
+D:\Cris\Facultate\Sem II\.Net\TS.NET-Laboratoare\Laborator 6\PostComment\ObjectWCF\bin\Debug\PostComment.dll
+D:\Cris\Facultate\Sem II\.Net\TS.NET-Laboratoare\Laborator 6\PostComment\ObjectWCF\bin\Debug\EntityFramework.dll
+D:\Cris\Facultate\Sem II\.Net\TS.NET-Laboratoare\Laborator 6\PostComment\ObjectWCF\bin\Debug\PostComment.pdb
+D:\Cris\Facultate\Sem II\.Net\TS.NET-Laboratoare\Laborator 6\PostComment\ObjectWCF\bin\Debug\PostComment.dll.config
+D:\Cris\Facultate\Sem II\.Net\TS.NET-Laboratoare\Laborator 6\PostComment\ObjectWCF\bin\Debug\EntityFramework.xml
+D:\Cris\Facultate\Sem II\.Net\TS.NET-Laboratoare\Laborator 6\PostComment\ObjectWCF\obj\Debug\ObjectWCF.csprojAssemblyReference.cache
+D:\Cris\Facultate\Sem II\.Net\TS.NET-Laboratoare\Laborator 6\PostComment\ObjectWCF\obj\Debug\ObjectWCF.csproj.CopyComplete
+D:\Cris\Facultate\Sem II\.Net\TS.NET-Laboratoare\Laborator 6\PostComment\ObjectWCF\obj\Debug\ObjectWCF.dll
+D:\Cris\Facultate\Sem II\.Net\TS.NET-Laboratoare\Laborator 6\PostComment\ObjectWCF\obj\Debug\ObjectWCF.pdb
