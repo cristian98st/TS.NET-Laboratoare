@@ -1,0 +1,15 @@
+D:\Cris\Facultate\Sem II\.Net\TS.NET-Laboratoare\Laborator 6\PostComment\ClientPostComment\obj\Debug\ClientPostComment.csprojAssemblyReference.cache
+D:\Cris\Facultate\Sem II\.Net\TS.NET-Laboratoare\Laborator 6\PostComment\ClientPostComment\obj\Debug\ClientPostComment.Form1.resources
+D:\Cris\Facultate\Sem II\.Net\TS.NET-Laboratoare\Laborator 6\PostComment\ClientPostComment\obj\Debug\ClientPostComment.Properties.Resources.resources
+D:\Cris\Facultate\Sem II\.Net\TS.NET-Laboratoare\Laborator 6\PostComment\ClientPostComment\obj\Debug\ClientPostComment.csproj.GenerateResource.cache
+D:\Cris\Facultate\Sem II\.Net\TS.NET-Laboratoare\Laborator 6\PostComment\ClientPostComment\bin\Debug\ClientPostComment.exe.config
+D:\Cris\Facultate\Sem II\.Net\TS.NET-Laboratoare\Laborator 6\PostComment\ClientPostComment\bin\Debug\ClientPostComment.exe
+D:\Cris\Facultate\Sem II\.Net\TS.NET-Laboratoare\Laborator 6\PostComment\ClientPostComment\bin\Debug\ClientPostComment.pdb
+D:\Cris\Facultate\Sem II\.Net\TS.NET-Laboratoare\Laborator 6\PostComment\ClientPostComment\bin\Debug\PostComment.dll
+D:\Cris\Facultate\Sem II\.Net\TS.NET-Laboratoare\Laborator 6\PostComment\ClientPostComment\bin\Debug\EntityFramework.dll
+D:\Cris\Facultate\Sem II\.Net\TS.NET-Laboratoare\Laborator 6\PostComment\ClientPostComment\bin\Debug\PostComment.pdb
+D:\Cris\Facultate\Sem II\.Net\TS.NET-Laboratoare\Laborator 6\PostComment\ClientPostComment\bin\Debug\PostComment.dll.config
+D:\Cris\Facultate\Sem II\.Net\TS.NET-Laboratoare\Laborator 6\PostComment\ClientPostComment\bin\Debug\EntityFramework.xml
+D:\Cris\Facultate\Sem II\.Net\TS.NET-Laboratoare\Laborator 6\PostComment\ClientPostComment\obj\Debug\ClientPostComment.csproj.CopyComplete
+D:\Cris\Facultate\Sem II\.Net\TS.NET-Laboratoare\Laborator 6\PostComment\ClientPostComment\obj\Debug\ClientPostComment.exe
+D:\Cris\Facultate\Sem II\.Net\TS.NET-Laboratoare\Laborator 6\PostComment\ClientPostComment\obj\Debug\ClientPostComment.pdb

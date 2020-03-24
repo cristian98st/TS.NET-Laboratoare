@@ -43,5 +43,20 @@ namespace ClientPostComment
             dgc.DataSource = null;
             dgc.DataSource = posts[e.RowIndex].Comments;
         }
+
+        private DataGridView dgc;
+        private DataGridViewTextBoxColumn commentIdDataGridViewTextBoxColumn;
+        private DataGridViewTextBoxColumn textDataGridViewTextBoxColumn;
+        private DataGridViewTextBoxColumn postPostIdDataGridViewTextBoxColumn;
+        private DataGridViewTextBoxColumn postDataGridViewTextBoxColumn;
+        private BindingSource commentBindingSource;
+        private IContainer components;
+        private DataGridView dgp;
+        private DataGridViewTextBoxColumn postIdDataGridViewTextBoxColumn;
+        private DataGridViewTextBoxColumn descriptionDataGridViewTextBoxColumn;
+        private DataGridViewTextBoxColumn domainDataGridViewTextBoxColumn;
+        private DataGridViewTextBoxColumn dateDataGridViewTextBoxColumn;
+        private DataGridViewTextBoxColumn commentsDataGridViewTextBoxColumn;
+        private BindingSource postBindingSource;
     }
 }
